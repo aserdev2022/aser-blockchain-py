@@ -76,3 +76,11 @@ https://www.jetbrains.com/pycharm/download/
 ``
 https://youtu.be/cUAK4x_7thA
 ``
+
+# ok the last step!
+
+``
+$~ => git clone https://github.com/aserdev2022/aser-blockchain-py.git
+``
+
+**and now open the project and run anything and change anything**
