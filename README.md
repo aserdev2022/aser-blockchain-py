@@ -1,7 +1,7 @@
 **Activate the vritual enviroment**
 
 ``
-$ ~ => source /home/[yourname]/[your project]/blockchain-env/bin/activate
+$ ~ => source /home/[yourname]/[your project]/etc/blockchain-env/bin/activate
 ``
 
 **install all packages**
@@ -84,3 +84,12 @@ $~ => git clone https://github.com/aserdev2022/aser-blockchain-py.git
 ``
 
 **and now open the project and run anything and change anything**
+
+# run the tests
+
+make sure to activate the virtual environment
+
+``
+$~ => python3 -m pytest backend/tests
+``
+

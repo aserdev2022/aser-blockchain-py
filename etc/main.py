@@ -1,0 +1,2 @@
+a = 'asma'
+print(a)
